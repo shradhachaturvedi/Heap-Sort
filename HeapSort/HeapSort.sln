@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HeapSort", "HeapSort\HeapSort.vcxproj", "{5792A141-DF10-40CE-82C8-C8F78BEFE074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5792A141-DF10-40CE-82C8-C8F78BEFE074}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5792A141-DF10-40CE-82C8-C8F78BEFE074}.Debug|Win32.Build.0 = Debug|Win32
+		{5792A141-DF10-40CE-82C8-C8F78BEFE074}.Release|Win32.ActiveCfg = Release|Win32
+		{5792A141-DF10-40CE-82C8-C8F78BEFE074}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
